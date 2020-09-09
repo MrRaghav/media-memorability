@@ -1,0 +1,72 @@
+see all the provided videos, to understand the problem.
+
+https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsRegressor.html
+https://www.geeksforgeeks.org/how-to-use-glob-function-to-find-files-recursively-in-python/
+http://openaccess.thecvf.com/content_ICCV_2017_workshops/w40/html/Shekhar_Show_and_Recall_ICCV_2017_paper.html
+https://pandas.pydata.org/pandas-docs/version/0.23.4/generated/pandas.melt.html
+https://www.pluralsight.com/guides/overview-basic-numpy-operations
+https://www.geeksforgeeks.org/how-to-drop-one-or-multiple-columns-in-pandas-dataframe/
+https://stackoverflow.com/questions/44424594/converting-numpy-array-into-dataframe-column
+http://ceur-ws.org/Vol-2283/MediaEval_18_paper_31.pdf
+https://docs.w3cub.com/scikit_learn/modules/generated/sklearn.ensemble.adaboostregressor/
+https://stackoverflow.com/questions/40758562/can-anyone-explain-me-standardscaler
+https://kavita-ganesan.com/tfidftransformer-tfidfvectorizer-usage-differences/
+https://datascience.stackexchange.com/questions/25581/what-is-the-difference-between-countvectorizer-token-counts-and-tfidftransformer
+https://www.quora.com/What-is-the-difference-between-TfidfVectorizer-and-CountVectorizer-1
+https://www.merriam-webster.com/dictionary/memorability
+https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
+https://stackoverflow.com/questions/31306390/sklearn-classifier-get-valueerror-bad-input-shape
+https://stackoverflow.com/questions/58132036/how-to-gridsearchcv-scikit-learn-votingregressor-with-multiple-combinations-of-m
+https://stackoverflow.com/questions/53578815/is-their-any-sklearn-module-like-voting-classifier-for-regression
+https://stats.stackexchange.com/questions/153853/regression-with-scikit-learn-with-multiple-outputs-svr-or-gbm-possible
+https://stats.stackexchange.com/questions/190151/ensembling-with-votingclassifier
+https://github.com/EpistasisLab/tpot/issues/457
+https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.VotingRegressor.html
+https://www.geeksforgeeks.org/how-to-drop-one-or-multiple-columns-in-pandas-dataframe/
+https://www.geeksforgeeks.org/how-to-get-column-names-in-pandas-dataframe/
+https://machinelearningmastery.com/prepare-text-data-machine-learning-scikit-learn/
+https://www.tensorflow.org/guide/keras/rnn
+https://adventuresinmachinelearning.com/keras-lstm-tutorial/
+https://towardsdatascience.com/machine-learning-recurrent-neural-networks-and-long-short-term-memory-lstm-python-keras-example-86001ceaaebc
+https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
+https://towardsdatascience.com/deep-neural-networks-for-regression-problems-81321897ca33
+https://stackoverflow.com/questions/51200106/what-is-the-use-of-max-features-in-tfidfvectorizer
+https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/
+https://matplotlib.org/3.1.0/gallery/color/named_colors.html
+https://github.com/AkihisaNishikawa/CA684-Machine-Learning/
+https://stackoverflow.com/questions/46118910/scikit-learn-vectorizer-max-features
+https://en.wikipedia.org/wiki/Condorcet%27s_jury_theorem
+https://keras.io/optimizers/
+https://github.com/justprophet/Memorability-of-videos/
+https://towardsdatascience.com/tf-idf-for-document-ranking-from-scratch-in-python-on-real-world-dataset-796d339a4089
+https://datascience.stackexchange.com/questions/39742/creating-a-feature-by-combining-2-features-with-different-units
+https://github.com/arunabellgutteramesh/VideoMemorabilityPredictionUsingML/
+http://ceur-ws.org/Vol-2283/
+https://github.com/swathikiran86/
+https://towardsdatascience.com/tf-idf-for-document-ranking-from-scratch-in-python-on-real-world-dataset-796d339a4089
+https://medium.com/open-knowledge/label-recognition-with-orb-da2b0260f4e4
+https://github.com/Harshali02/Memorability-Prediction/
+http://blog.christianperone.com/2011/09/machine-learning-text-feature-extraction-tf-idf-part-i/
+https://medium.com/open-knowledge/label-recognition-with-orb-da2b0260f4e4
+https://keras.io/activations/
+https://github.com/Khalees2/Video-Memorability-Predection-using-Machine-Learning/
+https://www.quora.com/How-can-I-choose-the-best-K-in-KNN-K-nearest-neighbour-classification
+https://github.com/Alekhya-Singh/Predicting-Video-Memorability-Score/
+https://stackoverflow.com/questions/49008074/how-to-create-a-neural-network-for-regression
+https://www.geeksforgeeks.org/sklearn-feature-extraction-with-tf-idf/
+https://www.tutorialspoint.com/python_pandas/python_pandas_series.htm
+https://www.w3resource.com/numpy/manipulation/squeeze.php
+
+.5 spearman score
+
+- load hmp to numpy array
+
+tqdm
+pyprind
+
+What are the significance of nb_short-term_annotations are nb_long-term_annotations in ground truth files?
+nb_xxxx_term_annotations are the number of annotations which was used to calculate the memorability score
+
+C3D - numpy array
+
+ensembling would be better -- I think!!!
